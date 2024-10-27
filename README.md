@@ -8,6 +8,6 @@ curl --location 'http://localhost:3000/cwisers' \
 curl --location 'http://localhost:3000/login' \
 --header 'Content-Type: application/json' \
 --data '{
-    "user": "ted",
-    "password": "boloDeRolo"
+    "user": "",
+    "password": ""
 }'
