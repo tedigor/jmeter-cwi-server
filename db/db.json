@@ -1,0 +1,7 @@
+{
+    "cwisers": [
+      { "id": "1", "name": "Ted", "function": "QA" },
+      { "id": "2", "name": "Ycaro", "function": "Dev" },
+      { "id": "3", "name": "Sté", "function": "PO" }
+    ]
+  }
